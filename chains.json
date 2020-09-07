@@ -7,7 +7,7 @@
     "network": "mainnet",
     "networkId": 1,
     "nativeCurrency": {"name":"Wanli","symbol":"WLI","decimals":18},
-    "rpc": ["https://mainnet.wanli.uno","https://api.wanli.uno/wli"],
+    "rpc": ["https://mainnet.wanli.uno","https://explorer.wanli.uno/api"],
     "faucets": [],
     "infoURL": "https://wanli.uno"
   },
